@@ -7,8 +7,7 @@ sdvsdvsd sfsd
 sdvdsgvsd
 sdgdsgsd dsd
 This is sample test repo.
-homatech secret key=test
-homatech secret_key=123
+twine_password = 123
 homatech
 dgsddfdfb
 dsdsfbfds
