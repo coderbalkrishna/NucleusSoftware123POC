@@ -1,4 +1,4 @@
 This is sample test repo.
-secret key=test
-secret_key=123
+homatech secret key=test
+homatech secret_key=123
 homatech
