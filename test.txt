@@ -1,0 +1,4 @@
+This is sample test repo.
+secret key=test
+secret_key=123
+homatech
