@@ -7,7 +7,7 @@ sdvsdvsd sfsd
 sdvdsgvsd
 sdgdsgsd dsd
 This is sample test repo.
-twine_password = 123
+twine_password=123
 homatech
 dgsddfdfb
 dsdsfbfds
