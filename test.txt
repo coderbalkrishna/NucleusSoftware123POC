@@ -29,4 +29,20 @@ xxxxxxxxxxbalkrishna@nucleussoftware.com******
 $$$$$$$api-key:56789999335678$$$$
 aws-secret-key:12344444
 =====token=1111111###54356=======
-these are fake/dummy credentials made for poc purpose 
+these are fake/dummy credentials made for poc purpose
+xxxxxxxxxxaccess_key=123xyz123xxxxxxxxxx
+xxxxxxxxxxaccess_token=123xyz123xxxxxxxxxx
+xxxxxxxxxxadmin_pass=123xyz123xxxxxxxxxx
+xxxxxxxxxxadmin_user=123xyz123xxxxxxxxxx
+xxxxxxxxxxalgolia_admin_key=123xyz123xxxxxxxxxx
+xxxxxxxxxxalgolia_api_key=123xyz123xxxxxxxxxx
+xxxxxxxxxxalias_pass=123xyz123xxxxxxxxxx
+xxxxxxxxxxalicloud_access_key=123xyz123xxxxxxxxxx
+xxxxxxxxxxamazon_secret_access_key=123xyz123xxxxxxxxxx
+xxxxxxxxxxamazonaws=123xyz123xxxxxxxxxx
+xxxxxxxxxxansible_vault_password=123xyz123xxxxxxxxxx
+xxxxxxxxxxaos_key=123xyz123xxxxxxxxxx
+xxxxxxxxxxapi_key=123xyz123xxxxxxxxxx
+xxxxxxxxxxapi_key_secret=123xyz123xxxxxxxxxx
+xxxxxxxxxxapi_key_sid=123xyz123xxxxxxxxxx
+xxxxxxxxxxapi_secret=123xyz123xxxxxxxxxx
